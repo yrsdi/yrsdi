@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm @yrsdi (Yadi Rosadi)
+- 👋 Hi there, I'm Yadi Rosadi
 - 👀 I’m interested in web development, distributed system and data analytic.
 - 🌱 I’m currently learning clojure
 <!---
